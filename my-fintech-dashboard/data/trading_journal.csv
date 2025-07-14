@@ -1,0 +1,6 @@
+Date,Pair,Position,Entry,Exit,RSI,MA,News,ProfitLoss,Notes
+2025-07-08,XAU/USD,Buy,2345.0,2350.0,48,2330.0,FOMC Meeting,"5.0","Good entry after RSI oversold"
+2025-07-09,BTC/USD,Sell,57500.0,57000.0,65,58000.0,US CPI Release,"500.0","Scalp short, news spike helped"
+2025-07-10,USOIL,Buy,76.5,77.2,52,75.0,OPEC Meeting,"0.7","Quick bounce after support"
+2025-07-11,NASDAQ,Buy,15200.0,15150.0,40,15300.0,Tech earnings,"-50.0","Loss due to bad earnings reaction"
+2025-07-12,ETH/USD,Buy,3100.0,3125.0,55,3080.0,None,"25.0","Simple MA bounce, no news"
