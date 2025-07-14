@@ -77,6 +77,6 @@ my-fintech-dashboard/
 
 ## 📬 Contact
 Feel free to connect or ask questions:
-- GitHub: [your-username](https://github.com/cacastudymarket)
+- GitHub: [cacastudymarket](https://github.com/cacastudymarket)
 - Email: cahyaratrilukitaputri@email.com
 
